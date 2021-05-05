@@ -1,0 +1,20 @@
+---
+- mystudents: 
+  -  name:  mailli
+     phono: 7878797978
+     course: devops
+     address: 
+       - doorNO: 223
+         street: main
+         pin: 500072
+
+  -  name:  rakesh
+     phono: 77777777
+     course: devops
+     address: kphb
+
+  -  name:  dev
+     phono: 6666666666
+     course: devops
+     address: kphb
+
