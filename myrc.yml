@@ -7,9 +7,9 @@ spec:
   selector:
     app: hello-world
   template:
-   metadata:
-    labels:
-      app: hello-world
+    metadata:
+      labels:
+        app: hello-world
     spec:
       containers:
       - name: hello-container
